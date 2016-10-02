@@ -8,7 +8,7 @@ package ca.mcmaster.magarveylab.enums.version;
  */
 public class Version {
 
-	private static String value = "2.1.2";
+	private static String value = "2.1.5";
 
 	public static String getValue() {
 		return value;

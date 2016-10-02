@@ -14,6 +14,7 @@ public enum ClusterFamilies implements Serializable {
 	NONRIBOSOMAL_PEPTIDE(Colors.RED),
 	TYPE_I_POLYKETIDE(Colors.BLUE),
 	TYPE_II_POLYKETIDE(Colors.YELLOW),
+	BETA_LACTAM(Colors.PINK),
 	RIBOSOMAL(Colors.ORANGE),
 	NULL(Colors.DARK_GREY),
 	;

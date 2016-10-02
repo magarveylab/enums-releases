@@ -1,2 +1,6 @@
 /bin/
+.classpath
 .DS_Store
+
+# Eclipse stuff
+.settings
